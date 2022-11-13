@@ -13,8 +13,11 @@ Analyze the data and generate insights that could help Netflix in deciding which
 ### TV Show Analysis
 1. Most of the TV Shows available o netflix has only one season.
 2. Very few TV Shows have more than 8 seasons.
+
 United States has the maximum content available followed by India and United Kingdom.
+
 Nicaragua, Afghanistan and Ecuador are the countries with less or NO content available on Netflix.
+
 #### Top 3 Genres in Movies and TV Shows
 * Dramas
 * International Movies
@@ -27,6 +30,7 @@ Nicaragua, Afghanistan and Ecuador are the countries with less or NO content ava
 * December
 * July
 * August
+
 Most movie additions in 2019 occurred in November followed by December,whereas for 2020 they are added in January followed by July and for 2021 they are added in July followed by April.
 
 Most TV Show additions in 2019 occurred in November followed by October, whereas for 2020 they are added in December followed by May and for 2021 they are added in July followed by June.
